@@ -21,7 +21,7 @@ $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 /* OFFER_PAGE display method. Available options: redirect, iframe */
 /* 'redirect' -  redirect visitors to offer page. (default method due to maximum compatibility with different hostings) */
 /* 'iframe' - Open URL in iframe. (recommended and safest method. requires the use of a SSL to work properly) */
- $CLOAKING['OFFER_METHOD'] = 'iframe';
+ $CLOAKING['OFFER_METHOD'] = 'redirect';
 
 /* Method of integration with WHITE_PAGE. Available options : standart, encoded */
 /* YOU MUST TO GENERATE NEW SCRIPT TO CHANGE THIS ! */
